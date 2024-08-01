@@ -8,4 +8,19 @@
 ![image](https://github.com/user-attachments/assets/633e1514-832b-4e1e-9e76-f345ab0bae61)
 
 
-# COMMING SOON ASAP! 🎄🎈🎁
+# Citation
+
+Ma, H., Zhang, Y., Liu, P., Zhang, F., & Zhu, P. (2024). How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery. Landscape and Urban Planning, 251, 105171. doi:[10.1016/j.landurbplan.2024.105171](https://doi.org/10.1016/j.landurbplan.2024.105171)
+
+BibTeX:
+```
+@article{MA2024105171,
+ author = {Haoran Ma and Yan Zhang and Pengyuan Liu and Fan Zhang and Pengyu Zhu},
+ doi = {https://doi.org/10.1016/j.landurbplan.2024.105171},
+ journal = {Landscape and Urban Planning},
+ pages = {105171},
+ title = {How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery},
+ volume = {251},
+ year = {2024}
+}
+```
